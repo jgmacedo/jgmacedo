@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jgmacedo
-- 👀 I’m interested in web design and learning to code
-- 🌱 I’m currently learning html and css on freeCodeCamp
+- 👀 I’m interested in all things software
+- 🌱 I’m currently studying Computer Science on IDP
 
 <!---
 jgmacedo/jgmacedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
