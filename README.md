@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jgmacedo
+- 👋 Hi, I’m @joaomacedo
 - 👀 I’m interested in all things software
 - 🌱 I’m currently studying Computer Science on IDP
 
