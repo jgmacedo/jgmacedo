@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jgmacedo
+- 👋 Hi, I’m @jgmacedo also known as @MTheus22 (fork content)
 - 👀 I’m interested in all things software
 - 🌱 I’m currently studying Computer Science on IDP
 
