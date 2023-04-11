@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jgmacedo
+- 👋 Hi, I’m @jgmacedo, but, alto know as @jorgemaia (fork content) 
 - 👀 I’m interested in all things software
 - 🌱 I’m currently studying Computer Science on IDP
 
