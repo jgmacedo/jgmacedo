@@ -29,9 +29,9 @@ Olá! Meu nome é João, um desenvolvedor de software focado em e desenvolviment
 
 ## Entre em Contato
 
-- Twitter: [@seu-usuario-no-twitter](https://twitter.com/jgmacedo2)
-- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/jgmacedo/)
-- Email: seu-email@email.com
+- Twitter: [@jgmacedo](https://twitter.com/jgmacedo2)
+- LinkedIn: [jgmacedo](https://www.linkedin.com/in/jgmacedo/)
+- Email: jgabreumacedo@gmail.com
 
 
 Obrigado por visitar o meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.
