@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil no GitHub
 
-Olá! Meu nome é João, um desenvolvedor de software focado em e desenvolvimento nativo iOS e um pouco de React Native. Estou entusiasmado em compartilhar meu trabalho e colaborar com a comunidade.
+Olá! Meu nome é João, um desenvolvedor de software focado em desenvolvimento nativo iOS e um pouco de React Native. Estou entusiasmado em compartilhar meu trabalho e colaborar com a comunidade.
 
 ## Sobre Mim
 
@@ -20,8 +20,8 @@ Olá! Meu nome é João, um desenvolvedor de software focado em e desenvolviment
 
 ## Projetos Destacados
 
-- [Nome do Projeto](https://github.com/jgmacedo/Hackathon_IDP): Aplicativo em React Native para Hackathon em que fiquei em 3º Lugar.
-- [Outro Projeto](https://github.com/jgmacedo/iQuiz)): Primeira experimentação com UIKit e programação em Swift
+- [Hackathon IDP](https://github.com/jgmacedo/Hackathon_IDP): Aplicativo em React Native para Hackathon em que fiquei em 3º Lugar.
+- [iQuiz](https://github.com/jgmacedo/iQuiz)): Primeira experimentação com UIKit e programação em Swift
 
 ## Estatísticas do GitHub
 
