@@ -9,11 +9,11 @@ Olá! Meu nome é João, um desenvolvedor de software focado em desenvolvimento 
 - 🌱 Atualmente Aprendendo: Swift e desenvolvimento nativo iOS
 - 👯 Procurando Colaborar em: Projetos de código aberto relacionados a Swift e SwiftUI
 - 💬 Me pergunte sobre: Estruturas de dados, algorítmos e tudo o que você precisar!
-- ⚡ Curiosidade: 
+- ⚡ Curiosidade: Amo viajar
 
 ## Habilidades e Tecnologias
 
-- 📱 Desenvolvimento Nativo iOS: Swift, Objective-C
+- 📱 Desenvolvimento Nativo iOS: Swift
 - 📱 Desenvolvimento Mobile: React Native
 - 🌐 Desenvolvimento Web: ReactJS, Node
 - ⚙️ Outras Habilidades: Algorítmos e estruturas de dados
