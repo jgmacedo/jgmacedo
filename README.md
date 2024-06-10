@@ -20,7 +20,7 @@ Olá! Meu nome é João, e sou desenvolvedor de software focado em dados e desen
 
 ## Projetos Destacados
 
-- [Macedo Viagens](https://github.com/jgmacedo/MacedoViagens): Meu pequeno aplicativo de viagens!
+- [Canada Rent Data Visualization](https://github.com/jgmacedo/CanadaRentDataViz): Projeto de Extração e transformação de dados para visualização de estatísticas sobre !
 - [Hackathon IDP](https://github.com/jgmacedo/Hackathon_IDP): Aplicativo em React Native para Hackathon em que fiquei em 3º Lugar.
 
 
