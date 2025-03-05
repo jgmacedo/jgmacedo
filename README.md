@@ -1,14 +1,12 @@
 # Bem-vindo ao Meu Perfil no GitHub
 
-Olá! Meu nome é João, e sou desenvolvedor de software focado em dados e desenvolvimento. Estou aqui para divulgar meu trabalho!
+Olá! Meu nome é João, e sou desenvolvedor de software focado em desenvolvimento Backend Java. Estou aqui para divulgar meu trabalho!
 
 ## Sobre Mim
 
 - 🌍 Localização: Brasília-Brasil
 - 💼 Ocupação: Desenvolvedor de Software
 - 🌱 Atualmente Aprendendo: Java e Spring
-- 👯 Procurando Colaborar em: Desenvolvimento de novas tecnologias
-- 💬 Me pergunte sobre: Estruturas de dados, algorítmos e tudo o que você precisar!
 - ⚡ Curiosidade: Amo viajar
 
 ## Habilidades e Tecnologias
@@ -21,8 +19,9 @@ Olá! Meu nome é João, e sou desenvolvedor de software focado em dados e desen
 
 ## Projetos Destacados
 
+- [EventsAPI](https://github.com/jgmacedo/EventsAPI): Pequeno projeto de API de registro de eventos, com permanência de dados PostgreSQL, Docker Container, e testes com JUnit.
+
 - [ZapVideo](https://github.com/jgmacedo/ZapVideo): ZapVideo é uma ferramenta para download de videos para compartilhamento via WhatsApp, utilizando Spring, HTML e CSS e Javascript, com Github Actions para CI/CD e Nginx para proxy reverso.
-- [Canada Rent Data Visualization](https://github.com/jgmacedo/CanadaRentDataViz): Projeto de Extração e transformação de dados para visualização de estatísticas sobre aluguéis no Canada
 
 
 ## Entre em Contato
