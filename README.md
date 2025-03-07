@@ -1,4 +1,4 @@
-# Bem-vindo ao Meu Perfil no GitHub
+# Bem-vindo ao Meu Perfil
 
 Olá! Meu nome é João, e sou desenvolvedor de software focado em desenvolvimento Backend Java ou Python. Estou aqui para divulgar meu trabalho!
 
