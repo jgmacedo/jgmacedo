@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil no GitHub
 
-Olá! Meu nome é João, e sou desenvolvedor de software focado em desenvolvimento Backend Java. Estou aqui para divulgar meu trabalho!
+Olá! Meu nome é João, e sou desenvolvedor de software focado em desenvolvimento Backend Java ou Python. Estou aqui para divulgar meu trabalho!
 
 ## Sobre Mim
 
@@ -11,18 +11,16 @@ Olá! Meu nome é João, e sou desenvolvedor de software focado em desenvolvimen
 
 ## Habilidades e Tecnologias
 
-- 🌐 Desenvolvimento Web: 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="35" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="35" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" />
+- 🌐 Desenvolvimento Web: Java, Spring boot, FastAPI, Python, PostgreSQL, Docker, HTML, CSS, Javascript
 - ⚙️ Outras Habilidades: Algoritmos e estruturas de dados
 
 ## Projetos Destacados
 
 - [EventsAPI](https://github.com/jgmacedo/EventsAPI): Pequeno projeto de API de registro de eventos, com permanência de dados PostgreSQL, Docker Container, e testes com JUnit.
+- [Workout_API](https://github.com/jgmacedo/Workout_API): Esta é uma API de competição de crossfit chamada WorkoutAPI. Utilizei o FastAPI, SQLAlchemy com PostgreSQL e Docker para containerização.
 
 - [ZapVideo](https://github.com/jgmacedo/ZapVideo): ZapVideo é uma ferramenta para download de videos para compartilhamento via WhatsApp, utilizando Spring, HTML e CSS e Javascript, com Github Actions para CI/CD e Nginx para proxy reverso.
-
+  
 
 ## Entre em Contato
 
