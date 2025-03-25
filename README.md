@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil
 
-Olá! Meu nome é João, e sou desenvolvedor de software focado em desenvolvimento Backend Java ou Python. Estou aqui para divulgar meu trabalho!
+Olá! Meu nome é João, e sou desenvolvedor de software focado em desenvolvimento Backend Java e Python, dependendo da necessidade! Estou aqui para divulgar meu trabalho!
 
 ## Sobre Mim
 
