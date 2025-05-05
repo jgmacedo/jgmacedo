@@ -1,17 +1,18 @@
 # Bem-vindo ao Meu Perfil
 
-Olá! Meu nome é João, e sou desenvolvedor de software focado em desenvolvimento Backend Java e Python, dependendo da necessidade! Estou aqui para divulgar meu trabalho!
+Olá! Meu nome é João, e sou desenvolvedor de software focado em desenvolvimento Backend Java! Estou aqui para divulgar meu trabalho!
+
+Atualmente curso Ciência da Computação no UniCEUB em Brasília, e estou no 5º Semestre.
 
 ## Sobre Mim
 
 - 🌍 Localização: Brasília-Brasil
 - 💼 Ocupação: Desenvolvedor de Software
 - 🌱 Atualmente Aprendendo: Java e Spring
-- ⚡ Curiosidade: Amo viajar
 
 ## Habilidades e Tecnologias
 
-- 🌐 Desenvolvimento Web: Java, Spring boot, FastAPI, Python, PostgreSQL, Docker, HTML, CSS, Javascript
+- 🌐 Desenvolvimento Web: Java, Spring boot, PostgreSQL, Docker, HTML, CSS, Javascript
 - ⚙️ Outras Habilidades: Algoritmos e estruturas de dados
 
 ## Projetos Destacados
